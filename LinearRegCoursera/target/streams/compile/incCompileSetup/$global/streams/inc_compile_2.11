@@ -1,0 +1,266 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> H:\study\spark\Coursera\LinearRegCoursera\target\scala-2.11\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+9 items
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> H:\study\spark\Coursera\LinearRegCoursera\target\scala-2.11\classes\LinearRegression$$anonfun$2.class
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> H:\study\spark\Coursera\LinearRegCoursera\target\scala-2.11\classes\LinearRegression$$anonfun$main$1$$anonfun$1.class
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> H:\study\spark\Coursera\LinearRegCoursera\target\scala-2.11\classes\LinearRegression$$anonfun$main$1$$anonfun$3.class
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> H:\study\spark\Coursera\LinearRegCoursera\target\scala-2.11\classes\LinearRegression$$anonfun$main$1$$anonfun$4.class
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> H:\study\spark\Coursera\LinearRegCoursera\target\scala-2.11\classes\LinearRegression$$anonfun$main$1.class
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> H:\study\spark\Coursera\LinearRegCoursera\target\scala-2.11\classes\LinearRegression$.class
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> H:\study\spark\Coursera\LinearRegCoursera\target\scala-2.11\classes\LinearRegression$DataPoints$3.class
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> H:\study\spark\Coursera\LinearRegCoursera\target\scala-2.11\classes\LinearRegression$DataPoints$4$.class
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> H:\study\spark\Coursera\LinearRegCoursera\target\scala-2.11\classes\LinearRegression.class
+binary dependencies:
+4 items
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> C:\Users\pratyush04\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.1.0.jar
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> C:\Users\pratyush04\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> C:\Users\pratyush04\.ivy2\cache\org.scalanlp\breeze_2.11\jars\breeze_2.11-0.12.jar
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> c:\Program Files\Java\jdk1.8.0_91\jre\lib\rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+9 items
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> LinearRegression
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> LinearRegression$
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> LinearRegression$$anonfun$2
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> LinearRegression$$anonfun$main$1
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> LinearRegression$$anonfun$main$1$$anonfun$1
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> LinearRegression$$anonfun$main$1$$anonfun$3
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> LinearRegression$$anonfun$main$1$$anonfun$4
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> LinearRegression$DataPoints$3
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> LinearRegression$DataPoints$4$
+used names:
+146 items
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> $conforms
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> &&
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> *
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> +
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> -
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> :/
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> <:<
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> <byname>
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> <init>
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> <repeated>
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> ==
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> ?0
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> A
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> AbstractFunction2
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> Any
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> AnyRef
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> Array
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> B
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> Boolean
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> CanTranspose
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> Char
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> Class
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> ClassLoader
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> ClassTag
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> DataPoints
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> DenseVector
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> Double
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> Function1
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> Function2
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> Impl2
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> Inclusive
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> IndexOutOfBoundsException
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> InjectNumericOps
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> Int
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> Iterator
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> K
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> LinearRegression
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> Long
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> None
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> Nothing
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> Object
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> OpDiv
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> OpMulInner
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> OpMulMatrix
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> OpSub
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> Predef
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> Product
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> R
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> RDD
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> Range
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> RichInt
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> ScalaRunTime
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> Serializable
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> Some
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> SparkConf
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> SparkContext
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> Statics
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> String
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> StringOps
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> T
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> T0
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> T1
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> T2
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> TT
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> Tensor
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> That
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> Transpose
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> Tuple2
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> U
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> URI
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> URL
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> Unit
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> V
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> _$7
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> _1
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> _2
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> _toString
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> a
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> alpha
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> apache
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> apply
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> asInstanceOf
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> augmentString
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> b
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> breeze
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> canDotD
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> canSubD
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> conf
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> count
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> difference
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> doubleHash
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> dv_dv_Op_Double_OpDiv
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> dv_s_Op_Double_OpMulMatrix
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> eq
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> filePath
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> fill
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> finalizeHash
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> fold
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> foreach
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> getClass
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> getClassLoader
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> getPath
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> getResource
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> gradVector
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> gradient
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> gradient_sum
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> intWrapper
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> isInstanceOf
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> iterations
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> linalg
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> line
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> m
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> map
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> materializeClassTag
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> mix
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> org
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> package
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> parts
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> prediction
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> println
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> raw
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> resource
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> result
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> runtime
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> s_dv_Op_Double_OpMulMatrix
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> sc
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> scala
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> setAppName
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> setMaster
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> spark
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> split
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> stop
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> t
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> textFile
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> theta
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> to
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> toDouble
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> toString
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> toURI
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> transTimesNormalFromDot
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> transposeTensor
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> typedProductIterator
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> valueAt
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> x
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> y
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> ||
+product stamps:
+9 items
+H:\study\spark\Coursera\LinearRegCoursera\target\scala-2.11\classes\LinearRegression$$anonfun$2.class -> lastModified(1492073627998)
+H:\study\spark\Coursera\LinearRegCoursera\target\scala-2.11\classes\LinearRegression$$anonfun$main$1$$anonfun$1.class -> lastModified(1492073628018)
+H:\study\spark\Coursera\LinearRegCoursera\target\scala-2.11\classes\LinearRegression$$anonfun$main$1$$anonfun$3.class -> lastModified(1492073628024)
+H:\study\spark\Coursera\LinearRegCoursera\target\scala-2.11\classes\LinearRegression$$anonfun$main$1$$anonfun$4.class -> lastModified(1492073628029)
+H:\study\spark\Coursera\LinearRegCoursera\target\scala-2.11\classes\LinearRegression$$anonfun$main$1.class -> lastModified(1492073628012)
+H:\study\spark\Coursera\LinearRegCoursera\target\scala-2.11\classes\LinearRegression$.class -> lastModified(1492073627981)
+H:\study\spark\Coursera\LinearRegCoursera\target\scala-2.11\classes\LinearRegression$DataPoints$3.class -> lastModified(1492073628087)
+H:\study\spark\Coursera\LinearRegCoursera\target\scala-2.11\classes\LinearRegression$DataPoints$4$.class -> lastModified(1492073628093)
+H:\study\spark\Coursera\LinearRegCoursera\target\scala-2.11\classes\LinearRegression.class -> lastModified(1492073627845)
+source stamps:
+1 items
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> hash(54eebb189eaa6be52b2fd1d36679fc5602489b67)
+binary stamps:
+4 items
+c:\Program Files\Java\jdk1.8.0_91\jre\lib\rt.jar -> lastModified(1467887281411)
+C:\Users\pratyush04\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.1.0.jar -> lastModified(1481871925000)
+C:\Users\pratyush04\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> lastModified(1457496963000)
+C:\Users\pratyush04\.ivy2\cache\org.scalanlp\breeze_2.11\jars\breeze_2.11-0.12.jar -> lastModified(1452974058000)
+class names:
+4 items
+c:\Program Files\Java\jdk1.8.0_91\jre\lib\rt.jar -> java.lang.Object
+C:\Users\pratyush04\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-2.1.0.jar -> org.apache.spark.rdd.RDD
+C:\Users\pratyush04\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.8.jar -> scala.Product
+C:\Users\pratyush04\.ivy2\cache\org.scalanlp\breeze_2.11\jars\breeze_2.11-0.12.jar -> breeze.linalg.Transpose
+internal apis:
+1 items
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwYXbArQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwisITdHQABm5vdGlmeXNxAH4ADDgTD8V0AAR3YWl0c3EAfgAMrPfQinQADSRhc0luc3RhbmNlT2ZzcQB+AAxykUSwdAAGZXF1YWxzc3EAfgAM6ZemIHQADGFzSW5zdGFuY2VPZnNxAH4ADE99t6J0AAxzeW5jaHJvbml6ZWRzcQB+AAxh3a+cdAANJGlzSW5zdGFuY2VPZnNxAH4ADPcopTJ0AARtYWluc3EAfgAMiUjlE3QACW5vdGlmeUFsbHNxAH4ADMU1rql0AAxpc0luc3RhbmNlT2ZzcQB+AAwzK+/cdAACPT1zcQB+AAw5QAHvdAAFY2xvbmVzcQB+AAzpTWzfdAAIdG9TdHJpbmdzcQB+AAyI0qQ/dAACIT1zcQB+AAzr7rdqdAAIZ2V0Q2xhc3NzcQB+AAzuaUHHdAACbmVzcQB+AAyXIeX5dAACZXFzcQB+AAxzuCD4dAAQTGluZWFyUmVncmVzc2lvbnNxAH4ADG+KP0x0AAIjI3NxAH4ADAvMXwp0AAhmaW5hbGl6ZXNxAH4ADNIybxl0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AMXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AF1zcQB+AFh1cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4AcQB+AB11cQB+AFAAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AXHQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AFxzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHh1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBleHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBTdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBsWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBcc3EAfgBrdAAFQXJyYXlxAH4AcXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBrdAAGU3RyaW5nc3EAfgBvc3EAfgBydXEAfgB1AAAAA3NxAH4Ad3QABGphdmFzcQB+AHd0AARsYW5ncQB+AHxzcQB+AFh1cQB+ADwAAAAAc3EAfgBYdXEAfgCQAAAAAnNxAH4Aa3QABk9iamVjdHEAfgCUc3EAfgBrdAADQW55cQB+AHF1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW2aEmXh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABDSDpcc3R1ZHlcc3BhcmtcQ291cnNlcmFcTGluZWFyUmVnQ291cnNlcmFcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFFTuuxieqmvlKy/R02Z5/FYCSJtn
+external apis:
+0 items
+source infos:
+1 items
+H:\study\spark\Coursera\LinearRegCoursera\src\main\scala\LinearRegression.scala -> 
+AAAAAAAAAAA=
+compilations:
+16 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW2JE0DJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQ0g6XHN0dWR5XHNwYXJrXENvdXJzZXJhXExpbmVhclJlZ0NvdXJzZXJhXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW2JG5tN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQ0g6XHN0dWR5XHNwYXJrXENvdXJzZXJhXExpbmVhclJlZ0NvdXJzZXJhXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW2JKrgZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQ0g6XHN0dWR5XHNwYXJrXENvdXJzZXJhXExpbmVhclJlZ0NvdXJzZXJhXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW2JNIJp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQ0g6XHN0dWR5XHNwYXJrXENvdXJzZXJhXExpbmVhclJlZ0NvdXJzZXJhXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW2JP28x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQ0g6XHN0dWR5XHNwYXJrXENvdXJzZXJhXExpbmVhclJlZ0NvdXJzZXJhXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW2Kj1o91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQ0g6XHN0dWR5XHNwYXJrXENvdXJzZXJhXExpbmVhclJlZ0NvdXJzZXJhXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW2KugSt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQ0g6XHN0dWR5XHNwYXJrXENvdXJzZXJhXExpbmVhclJlZ0NvdXJzZXJhXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW2N8gLJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQ0g6XHN0dWR5XHNwYXJrXENvdXJzZXJhXExpbmVhclJlZ0NvdXJzZXJhXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW2Odu/J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQ0g6XHN0dWR5XHNwYXJrXENvdXJzZXJhXExpbmVhclJlZ0NvdXJzZXJhXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW2PHdwZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQ0g6XHN0dWR5XHNwYXJrXENvdXJzZXJhXExpbmVhclJlZ0NvdXJzZXJhXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW2ZYAK11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQ0g6XHN0dWR5XHNwYXJrXENvdXJzZXJhXExpbmVhclJlZ0NvdXJzZXJhXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW2ZeRVp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQ0g6XHN0dWR5XHNwYXJrXENvdXJzZXJhXExpbmVhclJlZ0NvdXJzZXJhXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW2ZprTV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQ0g6XHN0dWR5XHNwYXJrXENvdXJzZXJhXExpbmVhclJlZ0NvdXJzZXJhXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW2Z9cM91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQ0g6XHN0dWR5XHNwYXJrXENvdXJzZXJhXExpbmVhclJlZ0NvdXJzZXJhXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW2aBmvt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQ0g6XHN0dWR5XHNwYXJrXENvdXJzZXJhXExpbmVhclJlZ0NvdXJzZXJhXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW2aEmXh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQ0g6XHN0dWR5XHNwYXJrXENvdXJzZXJhXExpbmVhclJlZ0NvdXJzZXJhXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
